@@ -9,7 +9,7 @@ export default function page() {
     <div  className='  w-full h-full   bg-white overflow-hidden'>
       <div className=' sticky inset-0 backdrop-blur-sm  z-30 '>
         <div className=' flex justify-start w-full  mt-4   '><div className='ml-14 mm:ml-6  lm:ml-6 st:ml-8 font-mono text-xl text-red-500 '>Digital</div></div>
-        <div className=' flex  justify-end w-full  mt-[-23px] '><div className=' mr-14 font-medium lm:hidden st:hidden mm:hidden smm:hidden'><span className=' mr-6 hover:text-red-500'><Link href='/'>Home</Link></span><span className=' hover:text-red-500 mr-6'><Link href='#features' >Features</Link></span><span className=' hover:text-red-500 mr-6'><Link href='#about'>About</Link></span><span className=' hover:text-red-500 mr-6'><Link  href='#products'>Products</Link></span><span className=' hover:text-red-500'>Contact</span></div>
+        <div className=' flex  justify-end w-full  mt-[-23px] text-black '><div className=' mr-14 font-medium lm:hidden st:hidden mm:hidden smm:hidden'><span className=' mr-6 hover:text-red-500'><Link href='/'>Home</Link></span><span className=' hover:text-red-500 mr-6'><Link href='#features' >Features</Link></span><span className=' hover:text-red-500 mr-6'><Link href='#about'>About</Link></span><span className=' hover:text-red-500 mr-6'><Link  href='#products'>Products</Link></span><span className=' hover:text-red-500'>Contact</span></div>
         <div className='mt:hidden lt:hidden md:hidden lg:hidden relative top-[-14px]'><Dropdown/></div>
         </div>
       </div>
