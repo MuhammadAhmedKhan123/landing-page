@@ -21,9 +21,9 @@ export default function page() {
       <div className='  relative'>
         <div className=' relative lg:top-[-1160px] top-[-1050px] lt:top-[-1000px] mt:top-[-1000px] st:top-[-1540px] lm:top-[-1540px] mm:top-[-1470px]  smm:top-[-1470px] st:pl-12 mm:pl-4 smm:pl-4 lm:pl-12 mt:pl-10 lt:pl-10  pl-20 flex st:flex-col-reverse lm:flex-col-reverse smm:flex-col-reverse mm:flex-col-reverse'>
           <div className=' flex justify-start mm:justify-center smm:justify-center lm:justify-center st:justify-center'>
-         <div className=' st:flex-col lm:flex-col smm:flex-col mm:flex-col justify-center st:text-center mm:text-center smm:text-center lm:text-center pr-12 mm:pr-4 smm:pr-4 w-full md:mt-[-25px]  st:mt-[-50px] mm:mt-[-40px] smm:mt-[-40px]  lm:mt-[-40px]   '><h1 className='text-4xl st:text-3xl lm:text-2xl mm:text-xl smm:text-xl font-semibold font-serif'>Smart Digital Watches
+         <div className='text-black st:flex-col lm:flex-col smm:flex-col mm:flex-col justify-center st:text-center mm:text-center smm:text-center lm:text-center pr-12 mm:pr-4 smm:pr-4 w-full md:mt-[-25px]  st:mt-[-50px] mm:mt-[-40px] smm:mt-[-40px]  lm:mt-[-40px]   '><h1 className='text-4xl st:text-3xl lm:text-2xl mm:text-xl smm:text-xl font-semibold font-serif'>Smart Digital Watches
            for Luxurious Life</h1>
-           <p className=' pt-3 mb-6 smm:text-sm mm:text-sm'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+           <p className=' pt-3 mb-6 smm:text-sm mm:text-sm text-black'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
            <a className=' pt-3 pb-3 pr-4 pl-4 rounded-lg bg-red-500 font-medium text-[#ffd8e1] '>Buy Products</a>
            </div>
            
@@ -51,15 +51,15 @@ export default function page() {
       
       <div className=' flex-col   w-56 text-center lg:mr-6 lm:mb-10 mm:mb-10 smm:mb-10 mr-5'>
        <div className='  ml-[75px] mt-3 w-20 h-20 bg-[#ffd8e1] rounded-full'><span className=' flex  justify-center  pt-2  text-red-500 text-6xl'><MdEqualizer/></span></div>
-       <div><h1 className=' text-xl font-medium'>High Quality</h1>
-       <p className=' '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+       <div><h1 className='text-black text-xl font-medium'>High Quality</h1>
+       <p className='text-black '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
        </div>      
       </div>
 
       <div className=' flex-col   w-56 text-center lg:mr-3 lg:ml-0 lm:ml-0 mm:ml-0 smm:ml-0 ml-5'>
       <div className='  ml-[75px] mt-3 w-20 h-20 bg-[#ffd8e1] rounded-full'><span className=' flex  justify-center  pt-2  text-red-500 text-6xl'><FaUsers/></span></div>
-      <div><h1 className=' text-xl font-medium'>User Friendly</h1>
-      <p className=' '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+      <div><h1 className='text-black text-xl font-medium'>User Friendly</h1>
+      <p className='text-black '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>      
      </div>
       
@@ -69,15 +69,15 @@ export default function page() {
       
       <div className=' flex-col   w-56 text-center lg:ml-3 lg:mr-0 mr-5 lm:mb-10 mm:mb-10 smm:mb-10 '>
        <div className='  ml-[75px] mt-3 w-20 h-20 bg-[#ffd8e1] rounded-full'><span className=' flex  justify-center  pt-2  text-red-500 text-6xl'><HiTemplate/></span></div>
-       <div><h1 className=' text-xl font-medium'>Awesome Design</h1>
-       <p className=' '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+       <div><h1 className='text-black text-xl font-medium'>Awesome Design</h1>
+       <p className='text-black '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
        </div>      
       </div>
       
       <div className=' flex-col   w-56 text-center lg:ml-6 ml-5 lm:ml-0 mm:ml-0 smm:ml-0'>
        <div className='  ml-[75px] mt-3 w-20 h-20 bg-[#ffd8e1] rounded-full'><span className=' flex  justify-center  pt-2  text-red-500 text-6xl'><FaLaptopCode/></span></div>
-       <div><h1 className=' text-xl font-medium'>Latest Technology</h1>
-       <p className=' '>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+       <div><h1 className='text-black text-xl font-medium'>Latest Technology</h1>
+       <p className=' text-black'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
        </div>      
       </div>
       
@@ -93,7 +93,7 @@ export default function page() {
 
 
 
-       <div id='about' className=' flex   justify-center relative top-[-1000px] lg:top-[-1100px] smm:top-[-1300px] mm:top-[-1200px] lm:top-[-1260px] st:top-[-1300px] items-center  bg-[#F7F8F8] smm:h-[760px] mm:h-[760px] lm:h-[820px] st:h-[880px] mt:h-[880px] mt:mt-14 h-[600px] w-full'>
+       <div id='about' className='text-black flex   justify-center relative top-[-1000px] lg:top-[-1100px] smm:top-[-1300px] mm:top-[-1200px] lm:top-[-1260px] st:top-[-1300px] items-center  bg-[#F7F8F8] smm:h-[760px] mm:h-[760px] lm:h-[820px] st:h-[880px] mt:h-[880px] mt:mt-14 h-[600px] w-full'>
         
         <div className=' flex mt:flex-col st:flex-col lm:flex-col mm:flex-col smm:flex-col  '>
         <div className=' smm:w-[260px] mm:w-[290px] lm:w-[360px]  st:w-[450px] mt:w-[550px] lt:w-[300px]  md:w-[300px] lg:w-[450px] md:mr-6 lt:mr-3 st:ml-28  mt:ml-52 st:pb-4 mt:pb-4'><img src='./pics/pic2.png'></img></div>
