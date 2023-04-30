@@ -18,7 +18,7 @@ function Products() {
         <div>
         <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
        <h1 className=' font-medium text-red-500'>Model No #001</h1>
-       <p>35.00$</p>
+       <p  className='text-black'>35.00$</p>
        </div>
     </div>
     
@@ -26,7 +26,7 @@ function Products() {
     <div>
     <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
    <h1 className=' font-medium text-red-500'>Model No #002</h1>
-   <p>56.00$</p>
+   <p className='text-black'>56.00$</p>
    </div>
 </div>
     
@@ -34,7 +34,7 @@ function Products() {
     <div>
     <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
    <h1 className=' font-medium text-red-500'>Model No #003</h1>
-   <p>40.00$</p>
+   <p className='text-black'>40.00$</p>
    </div>
 </div>
     
@@ -48,7 +48,7 @@ function Products() {
        <div>
        <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
       <h1 className=' font-medium text-red-500'>Model No #004</h1>
-      <p>29.00$</p>
+      <p className='text-black'>29.00$</p>
       </div>
    </div>
    
@@ -56,7 +56,7 @@ function Products() {
    <div>
    <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
   <h1 className=' font-medium text-red-500'>Model No #005</h1>
-  <p>87.00$</p>
+  <p className='text-black'>87.00$</p>
   </div>
 </div>
    
@@ -64,7 +64,7 @@ function Products() {
    <div>
    <div className=' w-[200px]'><img src='./pics/pic2.png'></img></div>
   <h1 className=' font-medium text-red-500'>Model No #006</h1>
-  <p>36.00$</p>
+  <p className='text-black'>36.00$</p>
   </div>
 </div>
    
