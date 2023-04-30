@@ -127,7 +127,7 @@ export default function page() {
         
           
       <div className='font-mono text-xl text-red-500 mb-3 lm:text-center mm:text-center smm:text-center'>Digital</div>
-      <div className=' mb-8 flex lm:justify-center lm:text-center mm:text-center smm:text-center'><h1>Lorem Ipsum is  dummy text of the printing and typesetting industry.</h1></div>
+      <div className=' mb-8 flex lm:justify-center lm:text-center mm:text-center smm:text-center text-red-500'><h1>Lorem Ipsum is  dummy text of the printing and typesetting industry.</h1></div>
       <div className=' flex lm:justify-center mm:justify-center smm:justify-center w-full '>
         <li className='w-10 h-10 rounded-full bg-red-500 text-xl flex
          justify-center items-center mr-2'><BsFacebook/></li>
@@ -142,7 +142,7 @@ export default function page() {
       
       </div>
 
-      <div className='md:mt-44 mt-52 mt:mt-40 st:mt-40 flex smm:justify-center mm:justify-center lm:justify-center relative smm:top-[-180px] lm:top-[-180px] mm:top-[-180px]'>
+      <div className='text-red-500 md:mt-44 mt-52 mt:mt-40 st:mt-40 flex smm:justify-center mm:justify-center lm:justify-center relative smm:top-[-180px] lm:top-[-180px] mm:top-[-180px]'>
         Made by:  <a href='https://github.com/MuhammadAhmedKhan123'> Muhammad Ahmed Khan</a>
       </div>
       </div> 
